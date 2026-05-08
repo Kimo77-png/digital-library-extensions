@@ -1,0 +1,11 @@
+[
+  {
+    "id": "anime4up",
+    "name": "Anime4up (Arabic)",
+    "version": "1.0.0",
+    "baseUrl": "https://anime4up.rest",
+    "lang": "ar",
+    "type": "anime",
+    "scriptUrl": "https://kimo77-png.github.io/digital-library/anime4up.js"
+  }
+]
